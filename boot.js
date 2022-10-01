@@ -11,7 +11,7 @@
 ║
 ║
 ║
-╠🆁🅴🅳╬🅳🆁🅰🅶🅾🅽╣ 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 [`𝗞.𝗣𝗿𝗮𝗯𝗵𝗮𝘀𝗵𝗮´]
+╠AdZone_ADVERTISING BOT (❤️SAYU❤️ R+S )╣ 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 [`Ravishka´]
 ║
 ║
 ║
@@ -165,7 +165,7 @@ async function startKUMUTHU() {
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let xeonfek = await KUMUTHU.sendContact(callerId, global.owner)
-    KUMUTHU.sendMessage(callerId, { text: `⚠️RED-DRAGON Automatic Block System!\n⚠️Don't Call Bot!\n⚠️Please Ask Or Contact The Owner To Unblock You!`}, { quoted : xeonfek })
+    KUMUTHU.sendMessage(callerId, { text: `⚠️AdZone_ADVERTISING BOT (❤️SAYU❤️ R+S ) Automatic Block System!\n⚠️Don't Call Bot!\n⚠️Please Ask Or Contact The Owner To Unblock You!`}, { quoted : xeonfek })
     await sleep(8000)
     await KUMUTHU.updateBlockStatus(callerId, "block")
     }
@@ -239,7 +239,7 @@ let docs = pickRandom(documents)
                 }
 
 //welcome\\
-        let nama = await KUMUTHU.getName(num)
+        let nama = await RAVISHKA.getName(num)
 memb = metadata.participants.length
 XeonWlcm = await getBuffer(`https://hardianto.xyz/api/welcome3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://telegra.ph/file/d460e086f9f9bf6b04e17.jpg&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
 XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://telegra.ph/file/d460e086f9f9bf6b04e17.jpg&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
@@ -264,7 +264,7 @@ Time  =  ${xtime} `
     {buttonId: `owner`, buttonText: {displayText: '🙏WELCOME🙏'}, type: 1}
     ]
 let buttonMessage = {
-    image: { url: 'https://i.ibb.co/0h3Sv26/20220805-080104.jpg'},
+    image: { url: 'https://i.im.ge/2022/10/01/1RhPl9.6810534.jpg'},
 caption: xeonbody,
 footer: `${footer}`,
 buttons,
@@ -291,7 +291,7 @@ Time =  ${xeontime} `
     {buttonId: `owner`, buttonText: {displayText: '👎BYE👎'}, type: 1}
     ]
     let buttonMessage = {
-        image: { url: 'https://i.ibb.co/H4h3mh4/20220805-080200.jpg'},
+        image: { url: 'https://i.im.ge/2022/10/01/1RhfDm.maxresdefault-4.jpg'},
     caption: xeonbody,
     footer: `${footer}`,
     buttons,
