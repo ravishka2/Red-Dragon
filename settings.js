@@ -32,11 +32,11 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94760559964'] // owner number
 global.ownername = "😎AdZone_ADVERTISING(❤️R+S❤️)" // owner name
 global.ytname = "T4D MUSIC" //
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: ravishka2" // github or insta name
 global.location = "sri lanka" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.im.ge/2022/10/01/1RUzmK.308703477-994331184747934-459459683674685837-n.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -49,7 +49,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94760559964']
 global.ownertag = '+94760559964' //your tag number
-global.botname = 'AdZone_ADVERTISING BOT (❤️SAYU❤️ R+S ) - 𝘉𝘖𝘛' //ur bot name
+global.botname = 'AdZone_ADVERTISING BOT (❤️SAYU❤️ R+S )' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "AdZone_ADVERTISING BOT (❤️SAYU❤️ R+S )" // sticker author
 global.dragonemoji = '📌' // Menu emoji
